@@ -1,5 +1,5 @@
-# Trust_Lens_AI
-Real-time AI object detection system with dynamic trust scoring, built using React and TensorFlow.js. Fully client-side and privacy-friendly.
+# Verdict AI
+An AI response auditing system that verifies model outputs using real-time evidence grounding and dynamic trust scoring.
 
 
 Copyright © 2026 Teesha Jindal
